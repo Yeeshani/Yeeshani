@@ -1,4 +1,8 @@
-### Hi there 👋
+This is [Yeeshani](https://evewho.com/character/2114616290).    
+I'm part of [Signal Cartel](https://signalcartel.org/) an Eve Online Corp with a focus on peaceful exploration.    
+I'm part of the [SC Wiki](https://wiki.signalcartel.space/Public:About_Signal_Cartel) team so most of the things in here will be related to that.
+
+If you want to start Eve here is my [Eve referral code](https://www.eveonline.com/signup/?invc=00318f8f-602e-4a2a-a9ac-bd657ebbdb79) giving you an easier start.
 
 <!--
 **Yeeshani/Yeeshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
